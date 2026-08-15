@@ -7,11 +7,11 @@ Rule: never watch the next day's material until you've completed that day's impl
 
 Days 1–5 — Linux + Build Systems
 Day	Learn	Resource
-1	Linux terminal, files, processes	Linux command-line tutorial
-2	Processes, pipes, redirection, environment	Linux processes
-3	GCC/Clang compilation, flags	GCC introduction
-4	CMake fundamentals	CMake beginner tutorial
-5	Git workflow	Git & GitHub crash course
+1	Linux terminal, files, processes	[Linux command-line tutorial](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+2	Processes, pipes, redirection, environment	[Linux processes](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+3	GCC/Clang compilation, flags	[GCC introduction](https://www.youtube.com/watch?v=K3f8C3lKJ9w)
+4	CMake fundamentals	[CMake beginner tutorial](https://www.youtube.com/watch?v=7YcbaupsY8I)
+5	Git workflow	[Git & GitHub crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 Build: create the PerfOracle repository, CMake project, executable, tests directory and Git workflow.
 
