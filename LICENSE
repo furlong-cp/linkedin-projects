@@ -1,1 +1,12 @@
+Copyright © 2026 Ganesh Nagaraj Shanbhag. All Rights Reserved.
 
+This repository contains the following projects:
+
+1. WireSpeed — Hardware-Aware Low-Latency Network Stack
+2. PerfOracle — Automated C++ Performance Regression Detection
+3. ResearchFabric — Research-to-Production Trading Infrastructure
+
+All source code, documentation, designs, and other original materials
+contained in this repository are proprietary and may not be copied,
+modified, distributed, published, or used without prior written permission
+from the copyright holder.
